@@ -1,6 +1,6 @@
 # AI Studio Source Code Dump
 
-This repository contains the results of a HAR file de-obfuscation pipeline.
+This repository contains the source code of Google AI Studio (aistudio.google.com), extracted, de-obfuscated, and beautified.
 
 ## Contents
 
